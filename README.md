@@ -83,8 +83,8 @@ Option 1: Manual Execution
 3. Start the Forwarder:
    Open another terminal, navigate to the `forward` directory, and run the forwarder:
    ```bash
-        cd forward
-        go run forward.go <file_path> <directory>
+    cd forward
+    go run forward.go <file_path> <directory>
    ```
 
 Option 2: Automated Execution (Using run_ftp.sh)
